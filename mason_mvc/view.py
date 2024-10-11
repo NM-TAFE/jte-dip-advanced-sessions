@@ -3,11 +3,8 @@ View
 
 show the options
 prompt the user for their choice
-
 prompt the user for their task name
-
 display tasks from the model
-
 general display (print) function
 '''
 class TaskView:
